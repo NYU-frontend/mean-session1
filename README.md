@@ -1,5 +1,13 @@
 #MEAN Session One
 
+##Assignment
+
+Download, install and configure Sublime Text on your personal computer. Download Koala. Unzip and review the files. Add the remaining SCSS files to styles.scss (watch out for that pesky error I mentioned). Ensure that you understand and can use Koala’s SASS preprocessing. You may use your own files or download version1 branch from this repo.
+
+[Purchase the text book](http://www.amazon.com/gp/product/1491901942/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1491901942&amp;linkCode=as2&amp;tag=hcj08-20&amp;linkId=PHEBREMNY64ZHLSH).
+
+Review the [Git tutorial](http://try.github.com/)
+
 ##Tools of the trade
 
 In this class we will be using Sublime Text, Git, Github, the Terminal, and Koala. 
@@ -24,10 +32,4 @@ Understand the basic principles of semantic HTML and the evolution of web develo
 * Installing and using [SASS](http://sass-lang.com/)
 * Essential HTML and the anatomy of CSS
 
-##Assignment
 
-Create a Github account. Download, install and configure Sublime Text with Package Manager and Emmet on your personal computer. Download Koala and the completed repo. Unzip and review the files. Ensure that you understand and can use Koala’s SASS preprocessing. 
-
-[Purchase the text book](http://www.amazon.com/gp/product/1491901942/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1491901942&amp;linkCode=as2&amp;tag=hcj08-20&amp;linkId=PHEBREMNY64ZHLSH).
-
-Review the [Git tutorial](http://try.github.com/)
