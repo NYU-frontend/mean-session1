@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,yBAOC;EANG,IAAK;IACD,iBAAiB,EAAE,cAAc;IACjC,SAAS,EAAE,cAAc;IACzB,wBAAwB,EAAE,aAAa;IACvC,gBAAgB,EAAE,aAAa;AAIvC,iBASC;EARG,IAAK;IACD,iBAAiB,EAAE,cAAc;IACjC,aAAa,EAAE,cAAc;IAC7B,SAAS,EAAE,cAAc;IACzB,wBAAwB,EAAE,aAAa;IACvC,oBAAoB,EAAE,aAAa;IACnC,gBAAgB,EAAE,aAAa",
+"sources": ["14-loadingicon-spin.scss"],
+"names": [],
+"file": "14-loadingicon-spin.css"
+}

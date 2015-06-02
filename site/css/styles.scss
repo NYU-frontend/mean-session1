@@ -1,0 +1,109 @@
+$black: #000;
+$white: #FFF;
+$banana: #fad46b;
+$theblackflag: #364347;
+$firstblood: #cc0000;
+$strawberry: #f84545;
+$babyblue: #e1eef3;
+$gray: #f7f7f7;
+$darkgray: #5e5e5e;
+$lightgray: #a1a1a1;
+$verylightgray: #b2c6cd;
+$landlubber: #28948c;
+$overboard: #009dcd;
+ 
+$padding: 10px;
+$margin: 10px;
+$main-width: 1000px;
+ 
+$font-size: 14px;
+$font-family: 'Lato', sans-serif;
+$line-height: 1.4;
+ 
+$break-four: 1050px;
+$break-three: 760px;
+$break-two: 520px;
+$break-one: 360px;
+ 
+@import url('http://fonts.googleapis.com/css?family=Lato:300,400,700');
+@import url('normalize.css');
+ 
+//clearfix - see http://nicolasgallagher.com/micro-clearfix-hack/
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+//Main styles
+* {
+    position: relative;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+ 
+html, body, .wrap {
+    min-height: 100%;
+}
+ 
+body {
+    color: $theblackflag;
+    font-size: $font-size;
+    font-family: $font-family;
+    line-height: $line-height;
+    background: $banana;
+}
+
+.sidebar {
+    width: 100%;
+    height: 100%;
+    padding-bottom:14%;
+    background: url(../images/hero.png) bottom center no-repeat;
+    background-size: 80%;
+    
+    @media screen and (min-width: $break-three) {
+        float: left;
+        width: 20%;
+    }
+    
+    
+    .my-info {
+        text-align: center;
+        padding: $padding*3 0;
+        
+        .portfolio-image {
+            border-radius: 50%;
+        }
+        
+        h1, h2 {
+            font-weight: normal;
+        }
+        
+        h1 {
+            font-size: 120%;
+        }
+        
+        h2 {
+            font-size: 100%;
+        }
+        
+    }
+    
+}
+// searchbar
+.searchbar {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
