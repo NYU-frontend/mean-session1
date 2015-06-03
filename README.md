@@ -2,7 +2,7 @@
 
 ##Assignment
 
-Download, install and configure Sublime Text on your personal computer. Download Koala. Unzip and review the files. Add the remaining SCSS files to styles.scss (watch out for that pesky error I mentioned - see the bottom of this readme for an explanation). Ensure that you understand and can use Koala’s SASS preprocessing. You may use your own files or download version1 branch from this repo.
+Download, install and configure Sublime Text on your personal computer. Download Koala. Unzip and review the files. Add the remaining SCSS files to styles.scss (watch out for that pesky error I mentioned - see the bottom of this readme for an explanation). Ensure that you understand and can use Koala’s SASS preprocessing. You may use your own files or download version1 branch from this repo (don't forget to select the version1 branch).
 
 [Purchase the text book](http://www.amazon.com/gp/product/1491901942/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1491901942&amp;linkCode=as2&amp;tag=hcj08-20&amp;linkId=PHEBREMNY64ZHLSH).
 
