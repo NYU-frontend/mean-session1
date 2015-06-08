@@ -26,7 +26,7 @@ Because files and applications are not permanently stored on the NYU lab compute
 
 ##Objectives
 
-Understand the basic principles of semantic HTML and the evolution of web development by updating a table-based layout to a standards-based layout. This session will cover:
+Understand the basic principles of semantic HTML and the basic web design production processes. This session will cover:
 
 * Basic Terminal use: ls, cd, and starting a Python server  ```$python -m SimpleHTTPServer```
 * The Chrome Web Developer tool
